@@ -7,7 +7,7 @@
 #     Notes:  Hard coded values to begin    #                                       
 #############################################
 
-export dir_name=summitdir1 
+export dir_name=summitdir 
 export file_name=${dir_name}/summit.lst
 export log_name=${dir_name}/summit.log
 

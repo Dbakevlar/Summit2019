@@ -7,7 +7,7 @@
 #     Notes:  Passing values to step 2      #                                       
 #############################################
 
-export arco=sum2 
+export arco=sum 
 export file_name=${dir_name}/${arco}_summit.lst
 export log_name=${dir_name}/${arco}_summit.log
 
