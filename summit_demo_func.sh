@@ -56,7 +56,8 @@ ls -ltr ${log_file} >> $log_file
 }
 
 function clean_func {
-rm -rf $dir_name
+rm -rf $dir_name/*
+rmdir $dir_name
 }
 
 # Conclusion
